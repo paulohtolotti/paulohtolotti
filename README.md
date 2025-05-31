@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as **web developer intern**
 
-- 🌱 I’m currently learning **Vue JS and Python**
+- 🌱 I’m currently learning **Vue JS and Python for backend and ML**
 
 - 📫 How to reach me **paulohtolotti@alumni.usp.br**
 
