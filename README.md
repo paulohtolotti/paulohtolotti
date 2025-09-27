@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working as **trainee developer**
 
-- 🌱 I’m currently learning **Fiori and Python for backend and ML**
+- 🌱 I’m currently learning **ES6 and Java (OOP and Spring)**
 
 - 📫 How to reach me **paulohtolotti@alumni.usp.br**
 
-- 📘 Education: **I have a bachelor in Food Engineering by USP and I'm studying System Analysis and Development.**
+- 📘 Education: **I have a bachelor in Food Engineering by USP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
