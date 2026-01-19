@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
 <h3 align="center">A web developer from Brazil.</h3>
-<img align="right" alt="Coding gif" width="400" src="https://camo.githubusercontent.com/17b2b164f3b4833aff4da21d216d2d4f26b204540bcaf05d23fc0c6fe0700d40/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f53784a516367322d55476b41414141432f776f726b696e672d66726f6d2e676966" style="border: 2px solid #333; border-radius: 9px;">
+<img align="right" alt="Coding gif" width="400" src="https://i.pinimg.com/originals/ce/76/0f/ce760fde1800bc12b74dfd67d2a5dcbe.gif" style="border: 2px solid #333; border-radius: 9px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulohtolotti&label=Profile%20views&color=0e75b6&style=flat" alt="paulohtolotti" /> </p>
 
