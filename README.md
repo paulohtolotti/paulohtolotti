@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as **web developer**
 
-- 🌱 I’m currently learning **Java Spring and Software architecture**
+- 🌱 I’m learning **Java Spring and Software architecture**
 
 - 📫 How to reach me **paulohtolotti@alumni.usp.br**
 
