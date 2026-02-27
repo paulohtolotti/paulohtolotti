@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulohtolotti&label=Profile%20views&color=0e75b6&style=flat" alt="paulohtolotti" /> </p>
 
-- 🔭 I’m currently working as **trainee developer**
+- 🔭 I’m currently working as **web developer**
 
-- 🌱 I’m currently learning **ES6 and Java (OOP and Spring)**
+- 🌱 I’m currently learning **Java Spring and Software architecture**
 
 - 📫 How to reach me **paulohtolotti@alumni.usp.br**
 
-- 📘 Education: **I have a bachelor in Food Engineering by USP**
+- 📘 Education: **I have a bachelor in Food Engineering by USP and I'm taking computer science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
