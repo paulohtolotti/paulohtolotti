@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **paulohtolotti@alumni.usp.br**
 
-- 📘 Education: **I have a bachelor in Food Engineering by USP and I'm taking computer science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
