@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulohtolotti&label=Profile%20views&color=0e75b6&style=flat" alt="paulohtolotti" /> </p>
 
-- 🔭 I’m currently working as **web developer**
+- 🔭 I’m currently working as **web developer**, developing RAG systems and systems integrations
 
-- 🌱 I’m learning **Java Spring and Software architecture**
+- 🌱 I’m learning **Software architecture and Python**
 
 - 📫 How to reach me **paulohtolotti@alumni.usp.br**
 
