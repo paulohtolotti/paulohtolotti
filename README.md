@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working as **web developer**, developing RAG systems and systems integrations
 
-- 🌱 I’m learning **Software architecture and Python**
-
 - 📫 How to reach me **paulohtolotti@alumni.usp.br**
 
 
